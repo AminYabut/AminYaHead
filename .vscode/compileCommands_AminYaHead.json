@@ -1,0 +1,37 @@
+[
+	{
+		"file": "C:\\\\Users\\\\Amin Yabut\\\\Desktop\\\\Coding\\\\AminYaHead\\\\Source\\\\AminYaHead\\\\AminYaHead.Build.cs",
+		"command": "cl.exe @\"C:\\Users\\Amin Yabut\\Desktop\\Coding\\AminYaHead\\.vscode\\compileCommands_AminYaHead\\AminYaHead.196.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Amin Yabut\\\\Desktop\\\\Coding\\\\AminYaHead\\\\Source\\\\AminYaHead\\\\AminYaHead.cpp",
+		"command": "cl.exe @\"C:\\Users\\Amin Yabut\\Desktop\\Coding\\AminYaHead\\.vscode\\compileCommands_AminYaHead\\AminYaHead.196.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Amin Yabut\\\\Desktop\\\\Coding\\\\AminYaHead\\\\Source\\\\AminYaHead\\\\AminYaHead.h",
+		"command": "cl.exe @\"C:\\Users\\Amin Yabut\\Desktop\\Coding\\AminYaHead\\.vscode\\compileCommands_AminYaHead\\AminYaHead.196.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Amin Yabut\\\\Desktop\\\\Coding\\\\AminYaHead\\\\Source\\\\AminYaHead\\\\AminYaHeadCharacter.cpp",
+		"command": "cl.exe @\"C:\\Users\\Amin Yabut\\Desktop\\Coding\\AminYaHead\\.vscode\\compileCommands_AminYaHead\\AminYaHead.196.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Amin Yabut\\\\Desktop\\\\Coding\\\\AminYaHead\\\\Source\\\\AminYaHead\\\\AminYaHeadCharacter.h",
+		"command": "cl.exe @\"C:\\Users\\Amin Yabut\\Desktop\\Coding\\AminYaHead\\.vscode\\compileCommands_AminYaHead\\AminYaHead.196.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Amin Yabut\\\\Desktop\\\\Coding\\\\AminYaHead\\\\Source\\\\AminYaHead\\\\AminYaHeadGameMode.cpp",
+		"command": "cl.exe @\"C:\\Users\\Amin Yabut\\Desktop\\Coding\\AminYaHead\\.vscode\\compileCommands_AminYaHead\\AminYaHead.196.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Amin Yabut\\\\Desktop\\\\Coding\\\\AminYaHead\\\\Source\\\\AminYaHead\\\\AminYaHeadGameMode.h",
+		"command": "cl.exe @\"C:\\Users\\Amin Yabut\\Desktop\\Coding\\AminYaHead\\.vscode\\compileCommands_AminYaHead\\AminYaHead.196.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]
