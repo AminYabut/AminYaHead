@@ -33,5 +33,15 @@
 		"file": "C:\\\\Users\\\\Amin Yabut\\\\Desktop\\\\Coding\\\\AminYaHead\\\\Source\\\\AminYaHead\\\\AminYaHeadGameMode.h",
 		"command": "cl.exe @\"C:\\Users\\Amin Yabut\\Desktop\\Coding\\AminYaHead\\.vscode\\compileCommands_AminYaHead\\AminYaHead.196.rsp\"",
 		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Amin Yabut\\\\Desktop\\\\Coding\\\\AminYaHead\\\\Source\\\\AminYaHead\\\\MovingPlatform.cpp",
+		"command": "cl.exe @\"C:\\Users\\Amin Yabut\\Desktop\\Coding\\AminYaHead\\.vscode\\compileCommands_AminYaHead\\AminYaHead.196.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Amin Yabut\\\\Desktop\\\\Coding\\\\AminYaHead\\\\Source\\\\AminYaHead\\\\MovingPlatform.h",
+		"command": "cl.exe @\"C:\\Users\\Amin Yabut\\Desktop\\Coding\\AminYaHead\\.vscode\\compileCommands_AminYaHead\\AminYaHead.196.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
 	}
 ]

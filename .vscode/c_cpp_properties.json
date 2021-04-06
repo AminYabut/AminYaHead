@@ -1,9 +1,12 @@
 {
-	"configurations": [
-		{
-			"name": "AminYaHeadEditor Editor Win64 Development (AminYaHead)",
-			"intelliSenseMode": "msvc-x64",
-			"compileCommands": "C:\\Users\\Amin Yabut\\Desktop\\Coding\\AminYaHead\\.vscode\\compileCommands_AminYaHead.json"
-		}
-	]
+    "configurations": [
+        {
+            "name": "AminYaHeadEditor Editor Win64 Development (AminYaHead)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Amin Yabut\\Desktop\\Coding\\AminYaHead\\.vscode\\compileCommands_AminYaHead.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
 }
